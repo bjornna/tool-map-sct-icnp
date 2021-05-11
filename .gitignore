@@ -1,0 +1,6 @@
+.idea
+target
+*.iml
+icnp.json
+icnp-snomedct.xlsx
+config.properties
